@@ -3,7 +3,6 @@ nginx
 infiniflow/ragflow:v0.17.2
 infiniflow/infinity:v0.17.2-dev3
 
-
 elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
@@ -11,7 +10,3 @@ redis:6
 valkey/valkey:8
 minio/minio
 
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
